@@ -1,2 +1,2 @@
 # First-one
-This is a first practice project
+This is a first practice project.
